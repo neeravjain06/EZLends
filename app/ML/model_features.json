@@ -1,0 +1,1 @@
+["loan_amnt", "term", "int_rate", "installment", "emp_length", "annual_inc", "dti", "delinq_2yrs", "revol_util", "open_acc", "pub_rec", "fico_range_low", "fico_range_high", "avg_fico", "dti_high", "high_revol_util", "income_loan_ratio"]
